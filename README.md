@@ -1,6 +1,6 @@
 # Tema-PA
 
-Acest program implementează un turneu de fotbal în care echipele se întrec în meciuri. Echipele și rezultatele meciurilor sunt citite dintr-un fișier de intrare, iar apoi se aplică regulile turneului pentru a determina echipa câștigătoare.
+Acest program implementează un turneu în care echipele se întrec în meciuri. Echipele și rezultatele meciurilor sunt citite dintr-un fișier de intrare, iar apoi se aplică regulile turneului pentru a determina echipa câștigătoare.
 
 Programul folosește următoarele structuri de date:
 
