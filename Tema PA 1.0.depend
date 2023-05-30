@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685262237 source:c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\main.c
+	"cerinte.h"
+
+1685111796 source:c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\cerinta1.c
+	"cerinte.h"
+
+1685115177 source:c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\cerinta3.c
+	"cerinte.h"
+
+1685116698 source:c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\cerinta4.c
+	"cerinte.h"
+
+1685262171 c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\cerinte.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1685112035 source:c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\cerinta2.c
+	"cerinte.h"
+
+1685262171 source:c:\users\cristina b\desktop\facultate\pa\tema pa 1.0\cerinta5.c
+
